@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "delay",
+  "my-redis",
+  "streams"
+]
